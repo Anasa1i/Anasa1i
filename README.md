@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/anasa1ii" target="blank"><img src="https://img.shields.io/twitter/follow/anasa1ii?logo=twitter&style=for-the-badge" alt="anasa1ii" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 I’m currently working on **on several exciting projects involving web and app development.**
+- 🔭 I’m currently working on **several exciting projects involving web and app development.**
 
 - 🌱 I’m currently learning **Javascript**
 
