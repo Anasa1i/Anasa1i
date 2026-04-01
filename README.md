@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Html, Css, Bootstrap, Javascript**
 
-- 📫 How to reach me **anasalimgmt@gmail.com**
-
 - ⚡ Fun fact **I think I am fun loving**
 
 <h3 align="left">Connect with me:</h3>
